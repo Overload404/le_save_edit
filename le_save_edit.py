@@ -8,7 +8,6 @@ from func import backup_check,backup,backupexists
 available_masteries=[]
 # functions go below
 
-jaroslave = {"age":31, "lokh":True}
 keep_loop = True
 backupdone = False
 username = getpass.getuser()
