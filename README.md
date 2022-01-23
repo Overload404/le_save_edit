@@ -1,4 +1,8 @@
 # le_save_edit
+<h1> Download </h1>
+
+[le_save_edit.zip](https://github.com/Overload404/le_save_edit/raw/master/dist/le_save_edit.zip)
+
 <h1> What is this </h1>
 
 LE Save Edit is a simple Python App for Last Epoch that allows you to:
